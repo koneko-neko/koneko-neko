@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="https://github.com/koneko-neko/koneko-neko/assets/153192615/470fc80e-8c4b-441f-ab55-fbf04a637c0b">
+    <img src="https://github.com/koneko-neko/koneko-neko/assets/153192615/648fb316-016c-4108-b7e7-ffbb6ee5fa5d">
 </img>
   </a>
 </p>
