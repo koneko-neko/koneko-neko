@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://codesandbox.io">
-    <img>![wallpaperflare com_wallpaper (6)](https://github.com/koneko-neko/koneko-neko/assets/153192615/586f8691-9bc3-4c38-a492-633788df22e4)
+    <img src="![wallpaperflare com_wallpaper (6)](https://github.com/koneko-neko/koneko-neko/assets/153192615/586f8691-9bc3-4c38-a492-633788df22e4)
+">
 </img>
   </a>
 </p>
