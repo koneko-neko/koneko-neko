@@ -1,45 +1,53 @@
 <p align="center">
   <a href="https://codesandbox.io">
     <img src="https://github.com/koneko-neko/koneko-neko/assets/153192615/648fb316-016c-4108-b7e7-ffbb6ee5fa5d">
-</img>
+    </img>
   </a>
 </p>
 
 &nbsp;
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)](https://circleci.com/gh/codesandbox/codesandbox-client)
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)](https://www.browserstack.com/automate/public-build/cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+<h2 align="center">About Me</h2>
+<p align="center">
+  I am a student who is studying the world of programming. Despite having many shortcomings, 
+  I will continue to strive to understand programming materials by practicing regularly,         
+  studying more, and praying. I am confident that the day will come when my hard work will pay off and I can become successful,
+  thus contributing to the advancement of the world.
+</p>
 
-An instantly ready, full-featured online IDE for web development on any device
-with a browser. Enabling you to start new projects quickly and prototype
-rapidly. With CodeSandbox, you can create web apps, experiment with code, test
-ideas, and share creations easily.
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
+<img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-## Other CodeSandbox repositories
-
-CodeSandbox consists of several separate servers, some of which are open
-sourced.
-
-- Client: the web application
-- Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
-- Nginx: Nginx config files
-- [Git Extractor](https://github.com/codesandbox/codesandbox-importers):
-  responsible for extracting the source from a GitHub repository
-- [CLI](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli):
-  the CLI to upload a CodeSandbox project from your command line
-
-## Documentation
-
-You can find our documentation on our
-[website](https://codesandbox.io/docs/learn/introduction/overview)
-
-## Thanks
-
-<a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
-
-Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
-testing platform that helps us catch unexpected changes.
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+  <p align="center">
+   <a href="https://alsiam.com" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+   </a>
+   <a href="https://linkedin.com/in/al-siam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+   </a>
+   <!-- <a href="https://dev.to/alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+   </a> -->
+   <a href="https://twitter.com/_alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+   <a href="https://instagram.com/_alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+   </a> 
+   <a href="https://facebook.com/alsiam.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+    </a> 
+  </p>
+  <br />
