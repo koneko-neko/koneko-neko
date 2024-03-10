@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/koneko-neko/koneko-neko/main/img/Hell%20(1).png">
   </img>
 </p>
-
-&nbsp;
-
 <h2 align="center">About Me <img src="https://media.tenor.com/vZZEPrwfe6AAAAAj/happy-amine.gif" width="70"></h2>
 <p align="center">
   I am a student who is studying the world of programming 😄. Despite having many shortcomings, 
