@@ -5,15 +5,15 @@
 
 &nbsp;
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me <img src="https://media.tenor.com/vZZEPrwfe6AAAAAj/happy-amine.gif" width="70"></h2>
 <p align="center">
-  I am a student who is studying the world of programming. Despite having many shortcomings, 
+  I am a student who is studying the world of programming 😄. Despite having many shortcomings, 
   I will continue to strive to understand programming materials by practicing regularly,         
-  studying more, and praying. I am confident that the day will come when my hard work will pay off and I can become successful,
-  thus contributing to the advancement of the world.
+  studying more, and praying. I am confident that the day will come when my hard work will pay off and I can become successful 🥇,
+  thus contributing to the advancement of the world.💪
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://media.tenor.com/Bw9ZKZyrig8AAAAj/confused-anime.gif" width="60"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
 <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center"><img src="https://media.tenor.com/PEp7__gqEYoAAAAj/mythikore-anime-girl.gif" width="70"> Reach me out on</h2>
   <p align="center">
    <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
